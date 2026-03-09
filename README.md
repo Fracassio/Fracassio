@@ -9,5 +9,5 @@
 - 🧫 Passionate about understanding the **immune system** and immunological diseases
 - 💻 Building reproducible pipelines and analysis workflows
 - 📍 Based in Bonn
-- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-elli1)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/francesco-elli1)
 
