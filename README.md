@@ -5,9 +5,9 @@
 
 ## About Me
 
-- 🧬 Bioinformatician specialized in **sc-RNA sequencing** and **flow cytometry** data analysis
+- 🧬 Bioinformatician specialized in **scRNA-seq** and **flow cytometry** data analysis with a focus on post-infectious and chronic inflammatory diseases
 - 🧫 Passionate about understanding the **immune system** in the context of human disease
-- 💻 Building reproducible pipelines and analysis workflows
+- 💻 R, Python, Bash — from raw data to reproducible workflows with Docker and Conda
 - 🗺️ Interested in learning new omics data analysis — currently focusing on spatial transcriptomics (work in progress)
 - 📍 Based in Bonn
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-elli1)
