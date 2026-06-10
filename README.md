@@ -5,10 +5,10 @@
 
 ## About Me
 
-- 🧬 Bioinformatician specialized in **RNA sequencing** and **flow cytometry** data analysis
+- 🧬 Bioinformatician specialized in **sc-RNA sequencing** and **flow cytometry** data analysis
 - 🧫 Passionate about understanding the **immune system** in the context of human disease
 - 💻 Building reproducible pipelines and analysis workflows
-- 🗺️ Interested in learning new data modalities — spatial transcriptomics and chromatin accessibility (ATAC-seq)
+- 🗺️ Interested in learning new omics data analysis — currently focusing on spatial transcriptomics (work in progress)
 - 📍 Based in Bonn
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/francesco-elli1)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-elli1)
 
